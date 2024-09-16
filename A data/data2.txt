@@ -1,0 +1,20 @@
+OpenAI has unveiled a new artificial intelligence model that it says can “reason” and solve harder problems in science, coding and math than its predecessors.
+
+The model, the first in a series called OpenAI o1, was released Thursday as a preview, with the firm saying it expects regular updates and improvements. It will gradually become available to most ChatGPT users.
+
+“We trained these models to spend more time thinking through problems before they respond, much like a person would,” the maker of ChatGPT said on its website. “Through training, they learn to refine their thinking process, try different strategies and recognize their mistakes.”
+
+As examples of the new models’ power, OpenAI noted that they can be used by healthcare researchers to annotate cell sequencing data and by physicists to generate “complicated mathematical formulas needed for quantum optics.”
+
+The potential of the new AI models was also highlighted by Noam Brown, a research scientist at the company. “OpenAI’s o1 thinks for seconds, but we aim for future versions to think for hours, days, even weeks. Inference costs will be higher,” he posted on X Thursday, referring to the costs — such as higher energy bills — of using AI to make inferences from inputs. “But what cost would you pay for a new cancer drug? For breakthrough batteries?” he added.
+
+AI’s massive thirst for energy was due to be discussed Thursday between senior White House officials and top US tech executives. Sam Altman, OpenAI CEO, Google senior executive Ruth Porat and Anthropic CEO Dario Amodei were expected to attend the meeting, a person familiar with the matter told CNN.
+
+20230525-Perils-of-ai-power-on
+Related article
+Opinion: We’ve reached a turning point with AI, expert says
+Although the technology may help solve thorny problems like cancer and the climate crisis, it poses equally complex challenges, including how to meet the significant demand for electricity required by advanced AI systems — which could worsen global warming.
+
+The new OpenAI model doesn’t yet have many of the features “that make ChatGPT useful,” the firm said, like browsing the web for information, and uploading files and images. “But for complex reasoning tasks this is a significant advancement,” it added.
+
+In tests, OpenAI o1 performs similarly to PhD students on difficult benchmark tasks in physics, chemistry and biology, according to the company. And in a qualifying exam for the International Mathematics Olympiad, the new series of models correctly solved 83% of problems.

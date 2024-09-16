@@ -1,0 +1,36 @@
+The face of artificial intelligence in America is set to meet with top US officials at the White House on Thursday, CNN has learned, in a first-of-its-kind meeting to solve a riddle that could severely strain US infrastructure: how to power the AI boom.
+
+Sam Altman, the CEO behind ChatGPT maker Open AI, Google senior executive Ruth Porat and Anthropic CEO Dario Amodei are expected to be among the tech executives in attendance, a person familiar with the matter told CNN.
+
+The meeting, which hasn’t been previously reported, is the first time senior White House officials will sit down with tech company leadership to discuss how to quench AI’s insatiable thirst for energy. The source said the White House expects to detail how the public and private sector can work together to maintain US leadership in AI in a sustainable way.
+
+The effort shows how business leaders and government officials are being forced to confront emerging challenges posed by the AI boom, which has captivated investors on Wall Street.
+
+Energy Secretary Jennifer Granholm, Commerce Secretary Gina Raimondo and other top officials from the Biden-Harris administration are also set to attend, along with representatives from Microsoft, according to a White House official.
+
+Neither President Joe Biden nor Vice President Kamala Harris is expected to attend.
+
+The rapid development of energy-intensive AI has sparked worries about the technology straining America’s aging power grid at a time when the Biden administration is attempting to speed the transition away from coal and other fossil fuels.
+
+Although AI has the potential to solve thorny problems like the climate crisis and cancer, it poses equally complex challenges, including how to meet the significant demand for electricity required by advanced AI systems.
+
+A single request on ChatGPT consumes about 10 times as much electricity as a typical Google search, according to the International Energy Agency. By 2026, the AI industry is projected to consume at least 10 times as much as in 2023, the IEA said.
+
+AI is expected to spark a 160% surge in power demand from data centers by 2030, according to Goldman Sachs. AI’s appetite for energy is so great that it will force long-stalled US power demand to increase significantly the rest of this decade, the bank has said.
+
+An OpenAI spokesperson confirmed to CNN that Altman plans to attend the meeting and will focus on how building out America’s AI infrastructure — power generation, data centers and semiconductor manufacturing — will create jobs.
+
+In a recent op-ed in the Washington Post, Altman described the question of who will control the future of AI as “the urgent question of our time.”
+
+“The United States currently has a lead in AI development,” Altman wrote, “but continued leadership is far from guaranteed. Authoritarian governments the world over are willing to spend enormous amounts of money to catch up and ultimately overtake us.”
+
+Altman has a lot at stake in this issue. Not only is he the face of the AI industry, but he has invested in Exowatt, a startup that is betting solar power can help shrink AI’s carbon footprint. Exowatt just launched a new system that can generate and store clean energy to AI data centers.
+
+“President Biden and Vice President Harris are committed to deepening US leadership in AI by ensuring data centers are built in the United States while ensuring the technology is developed responsibly,” White House spokesperson Robyn Patterson told CNN in a statement.
+
+Other US officials expected to attend Thursday’s AI power meeting include White House Chief of Staff Jeff Zients, National Economic Adviser Lael Brainard, National Security Adviser Jake Sullivan and top climate officials Ali Zaidi and John Podesta.
+
+The meeting follows a July 2023 effort by the Biden administration to get leading AI companies to pledge to put new AI systems through outside testing before public release and clearly label AI-generated content.
+
+It’s a big day for Sam Altman: He will appear on an 8 pm ET special about AI on ABC hosted by Oprah Winfrey. Former Microsoft CEO Bill Gates will also appear on the show.
+

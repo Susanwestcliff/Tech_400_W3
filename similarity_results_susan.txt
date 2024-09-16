@@ -1,0 +1,60 @@
+
+Cosine similarities for query 'The three women sit huddled together':
+Document Data9.txt: 0.0068
+Document data6.txt: 0.0079
+Document data2.txt: 0.0030
+Document Data5.txt: 0.0037
+Document Data8.txt: 0.0056
+Document data4.txt: 0.0333
+Document data1.txt: 0.0691
+Document data3.txt: 0.0212
+Document Data7.txt: 0.0084
+Document Data10.txt: 0.0114
+
+Cosine similarities for query 'The cave remained a place':
+Document Data9.txt: 0.0832
+Document data6.txt: 0.0219
+Document data2.txt: 0.0059
+Document Data5.txt: 0.0082
+Document Data8.txt: 0.0125
+Document data4.txt: 0.0086
+Document data1.txt: 0.0078
+Document data3.txt: 0.0062
+Document Data7.txt: 0.0087
+Document Data10.txt: 0.0076
+
+Cosine similarities for query 'That leads some here to worry':
+Document Data9.txt: 0.0152
+Document data6.txt: 0.0033
+Document data2.txt: 0.0024
+Document Data5.txt: 0.0807
+Document Data8.txt: 0.0040
+Document data4.txt: 0.0063
+Document data1.txt: 0.0044
+Document data3.txt: 0.0033
+Document Data7.txt: 0.0027
+Document Data10.txt: 0.0068
+
+Cosine similarities for query 'artificial intelligence model that':
+Document Data9.txt: 0.0153
+Document data6.txt: 0.0424
+Document data2.txt: 0.1114
+Document Data5.txt: 0.0027
+Document Data8.txt: 0.0014
+Document data4.txt: 0.0021
+Document data1.txt: 0.0015
+Document data3.txt: 0.0247
+Document Data7.txt: 0.0008
+Document Data10.txt: 0.0006
+
+Cosine similarities for query 'The planet was really vulnerable at that time':
+Document Data9.txt: 0.0097
+Document data6.txt: 0.0875
+Document data2.txt: 0.0070
+Document Data5.txt: 0.0076
+Document Data8.txt: 0.0101
+Document data4.txt: 0.0104
+Document data1.txt: 0.0364
+Document data3.txt: 0.0082
+Document Data7.txt: 0.0084
+Document Data10.txt: 0.0164
